@@ -76,7 +76,7 @@
     "colors": "^1.1.2",
     "graceful-fs": "^4.1.2",
     "json-bigint": "^0.1.4",
-    "mongodb": "^2.0.45",
+    "mongodb": "^3.6.1",
     "mysql": "^2.9.0"
   },
   "devDependencies": {
